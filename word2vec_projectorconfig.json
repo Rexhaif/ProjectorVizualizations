@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Rexhaif's And Random's Word2Vec embeddings, version 1",
       "tensorShape": [
         1000,
         50
