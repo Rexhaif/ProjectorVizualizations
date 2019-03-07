@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/word2vec_10k_50d.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/word2vec_10k.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/word2vec_w2_10k_50d.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/word2vec_w2_10k.tsv"
     }
   ]
 }
