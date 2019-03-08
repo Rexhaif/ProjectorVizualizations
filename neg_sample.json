@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Rexhaif's And Random's Word2Vec embeddings, version 1",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/vectors_neg_sampl.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Rexhaif/ProjectorVizualizations/master/index_neg_sampl.tsv"
+    }
+  ]
+}
